@@ -1,0 +1,15 @@
+Executable : C:\Microsoft\AndroidSDK\25\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+-HC:\Users\media\Desktop\Ha\Media Lab\TA\CG 2023\Homework\Homework1\project\Homework1\app
+-BC:\Users\media\Desktop\Ha\Media Lab\TA\CG 2023\Homework\Homework1\project\Homework1\app\.externalNativeBuild\cmake\debug\x86
+-DANDROID_ABI=x86
+-DANDROID_PLATFORM=android-16
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\Users\media\Desktop\Ha\Media Lab\TA\CG 2023\Homework\Homework1\project\Homework1\app\build\intermediates\cmake\debug\obj\x86
+-DCMAKE_BUILD_TYPE=Debug
+-DANDROID_NDK=C:\Microsoft\AndroidSDK\25\ndk\19.2.5345600
+-DCMAKE_CXX_FLAGS=-std=c++11
+-DCMAKE_TOOLCHAIN_FILE=C:\Microsoft\AndroidSDK\25\ndk\19.2.5345600\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=C:\Microsoft\AndroidSDK\25\cmake\3.6.4111459\bin\ninja.exe
+-GAndroid Gradle - Ninja
+jvmArgs : 
+
