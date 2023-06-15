@@ -2,6 +2,7 @@
 2023 1학기 컴퓨터 그래픽스
 
 HW1 과제
+
 Problem 1
 clip-space vertex position과 world-space vertex normal 계산
 texture coordinates 그대로 rasterizer 전달
